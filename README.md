@@ -5,6 +5,7 @@ This project aims to recognize human activities using smartphone sensor data (ac
 
 ## 📂 Dataset Details
 The dataset consists of signals collected from **30 individuals performing six different activities**, recorded through **smartphone sensors**. Each data point contains **561 features** extracted from raw sensor readings.
+link to dataset:https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
 
 ### Dataset Structure:
 - **train/** - Training data
